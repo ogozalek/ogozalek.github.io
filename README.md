@@ -27,6 +27,14 @@ PROJECTS<br>
     Platform: Jupyter Notebook, Word, VSCode, Mapbox</td>
     <td><img src="https://github.com/ogozalek/Transit_Application/blob/main/mbtaMap.png" width='300'/></td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/ogozalek/Netflix_World_Traveler">Netflix World Traveler</a><br>
+    This project involves what might be Netflix’s best-kept secret–-the existence of hundreds of original TV series from countries all over the world! Note: This is a personal project for educational purposes only.<br>
+    <br>
+    Tech Stack: Python, CSV file processing, HTML, Flask, machine learning<br>
+    Platform: Web, Mapbox, Netflix</td>
+    <td><img src="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/worldmap.png" width='300'/></td>
+  </tr>
 </table>
 Using the ETL Process to Explore Effects of the COVID-19 Lockdowns on Selected Monthly Retail and Food Services Sales<br>
 Creating a Books Web Application<br>
