@@ -3,7 +3,7 @@ MIT xPRO Professional Certificate in Data Engineering May 2023<br>
 <br>
 PROJECTS<br>
 <br>
-Building a Model to Predict Housing Prices<br>
+<a href="https://github.com/ogozalek/Predict_Housing_Prices">Building a Model to Predict Housing Prices </a><br>
 Using the ETL Process to Explore Effects of the COVID-19 Lockdowns on Selected Monthly Retail and Food Services Sales<br>
 Creating a Books Web Application<br>
 Build a Transit Data Application<br>
