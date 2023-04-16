@@ -19,6 +19,14 @@ PROJECTS<br>
     Platform: Jupyter Notebook</td>
     <td><img src="https://github.com/ogozalek/Covid19_and_Retail_Sales/blob/main/lineplot1.png" width='300'/></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/ogozalek/Transit_Data_Application">Building a Transit Data Application </a><br>
+    This project uses the API for Boston's MBTA system to display the position of buses on a map on a website.<br>
+    <br>
+    Tech Stack: Python (pandas, matplotlib, haversine), MySQL, Flask, HTML, JSON, Docker, Maven Springboot, Debezium, CDC, nano, MongoDB, javamaven<br>
+    Platform: Jupyter Notebook, Word, VSCode, Mapbox</td>
+    <td><img src="https://github.com/ogozalek/Transit_Data_Application/blob/main/mbtaMap.png" width='300'/></td>
+  </tr>
 </table>
 Using the ETL Process to Explore Effects of the COVID-19 Lockdowns on Selected Monthly Retail and Food Services Sales<br>
 Creating a Books Web Application<br>
