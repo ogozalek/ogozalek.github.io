@@ -8,7 +8,7 @@
       </td>
   </tr>
 </table>
-Tech Stack: &#x2022; Python &#x2022; SQL
+<b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; C &#x2022; Assembly Language
 <table>
   <tr>
     <td><a href="https://github.com/ogozalek/Predict_Housing_Prices">Building a Model to Predict Housing Prices </a><br>
