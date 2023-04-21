@@ -25,10 +25,7 @@
       </td>
   </tr>
   </table>
-  
-  
-  
-  
+ 
   <table>
     <tr>
     <td><a href="https://github.com/ogozalek/Transit_Application">Building a Transit Data Application </a><br>
@@ -39,11 +36,13 @@
     </td>
     <td><a href="https://github.com/ogozalek/Netflix_World_Traveler">Netflix World Traveler</a><br>
     <img src="worldmap.png" width='300'/><br>  
-    This project involves my favorite Netflix viewing activity–-watching Netflix's hundreds of original TV series from countries all over the world! Note: This is a personal project for educational purposes only.<br>
+    This project analyzes my Netflix viewing_activity.csv file to track TV series I've watched from all over the world.<br>
     <br>
     Tech Stack: Python, CSV file processing, HTML, Flask, machine learning<br>
     </td>
+  </tr>
 </table>
+
 Creating a Books Web Application<br>
 Creating a Sensemaking Data Pipeline<br>
 Analyzing Live Streaming Data Using ThingsBoard<br>
