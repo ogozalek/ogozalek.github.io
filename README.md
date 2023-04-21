@@ -36,7 +36,7 @@
     </td>
     <td><a href="https://github.com/ogozalek/Netflix_World_Traveler">Netflix World Traveler</a><br>
     <img src="worldmap.png" width='300'/><br>  
-    This project analyzes my Netflix viewing_activity.csv file to track TV series I've watched from all over the world.<br>
+      This project analyzes my Netflix <i>viewing_activity.csv</i> file to track TV series I've watched from all over the world.<br>
     <br>
     Tech Stack: Python, CSV file processing, HTML, Flask, machine learning<br>
     </td>
