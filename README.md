@@ -4,6 +4,10 @@ MIT xPRO Professional Certificate in Data Engineering May 2023<br>
 PROJECTS<br>
 <table>
   <tr>
+    <td><img src="photo_april2023.png" width='300'/></td>
+    <td>MIT xPRO Professional Certificate in Data Engineering May 2023</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/ogozalek/Predict_Housing_Prices">Building a Model to Predict Housing Prices </a><br>
     This project uses multiple linear regression to predict housing prices based on a dataset for residential houses in Ames, Iowa.<br>
     <br>
