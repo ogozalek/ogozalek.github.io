@@ -1,4 +1,4 @@
-# ogozalek.github.io
+<!-- # ogozalek.github.io -->
 <table>
   <tr>
     <td><img src="photo_april2023.png" width='100'/></td>
@@ -8,7 +8,8 @@
       </td>
   </tr>
 </table>
-<b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; C &#x2022; Assembly Language
+<b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; C &#x2022; Assembly Language <br>
+<h3 text-align:center>Projects</h3>
 <table>
   <tr>
     <td><a href="https://github.com/ogozalek/Predict_Housing_Prices">Building a Model to Predict Housing Prices </a><br>
