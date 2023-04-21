@@ -4,7 +4,7 @@ MIT xPRO Professional Certificate in Data Engineering May 2023<br>
 PROJECTS<br>
 <table>
   <tr>
-    <td><img src="photo_april2023.png" width='300'/></td>
+    <td><img src="photo_april2023.png" width='100'/></td>
     <td>MIT xPRO Professional Certificate in Data Engineering May 2023</td>
   </tr>
   <tr>
