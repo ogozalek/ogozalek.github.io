@@ -9,7 +9,7 @@ PROJECTS<br>
     <br>
     Tech Stack: Python (pandas, numpy, matplotlib, sklearn, seaborn), CSV file processing<br>
     Platform: Jupyter Notebook</td>
-    <td><img src="https://github.com/ogozalek/Predict_Housing_Prices/blob/main/scatterplot1.png" width='300'/></td>
+    <td><img src="scatterplot1.png" width='300'/></td>
   </tr>
     <tr>
     <td><a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Exploring Effects of the COVID-19 Lockdowns on Retail Sales </a><br>
@@ -17,7 +17,7 @@ PROJECTS<br>
     <br>
     Tech Stack: Python (matplotlib, yaml), MySQL, CSV file processing<br>
     Platform: Jupyter Notebook</td>
-    <td><img src="https://github.com/ogozalek/Covid19_and_Retail_Sales/blob/main/lineplot1.png" width='300'/></td>
+    <td><img src="lineplot1.png" width='300'/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ogozalek/Transit_Application">Building a Transit Data Application </a><br>
@@ -25,7 +25,7 @@ PROJECTS<br>
     <br>
     Tech Stack: Python (pandas, matplotlib, haversine), MySQL, Flask, HTML, JSON, Docker, Maven Springboot, Debezium, CDC, nano, MongoDB, javamaven<br>
     Platform: Jupyter Notebook, Word, VSCode, Mapbox</td>
-    <td><img src="https://github.com/ogozalek/Transit_Application/blob/main/mbtaMap.png" width='300'/></td>
+    <td><img src="mbtaMap.png" width='300'/></td>
   </tr>
    <tr>
     <td><a href="https://github.com/ogozalek/Netflix_World_Traveler">Netflix World Traveler</a><br>
