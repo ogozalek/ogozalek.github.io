@@ -1,12 +1,15 @@
 # ogozalek.github.io
-MIT xPRO Professional Certificate in Data Engineering May 2023<br>
-<br>
-PROJECTS<br>
 <table>
   <tr>
     <td><img src="photo_april2023.png" width='100'/></td>
-    <td>MIT xPRO Professional Certificate in Data Engineering May 2023</td>
+    <td><h1>Virginia Ogozalek</h1>
+      <h2>MIT xPRO Certificate in Data Engineering<br>
+      May 2023</h2>
+      </td>
   </tr>
+</table>
+Tech Stack: &#x2022; Python &#x2022; SQL
+<table>
   <tr>
     <td><a href="https://github.com/ogozalek/Predict_Housing_Prices">Building a Model to Predict Housing Prices </a><br>
     This project uses multiple linear regression to predict housing prices based on a dataset for residential houses in Ames, Iowa.<br>
