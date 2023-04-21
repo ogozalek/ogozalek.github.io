@@ -33,7 +33,7 @@ PROJECTS<br>
     <br>
     Tech Stack: Python, CSV file processing, HTML, Flask, machine learning<br>
     Platform: Web, Mapbox, Netflix</td>
-    <td><img src="https://github.com/ogozalek/worldmap.png" width='300'/></td>
+    <td><img src="worldmap.png" width='300'/></td>
   </tr>
 </table>
 Creating a Books Web Application<br>
