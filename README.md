@@ -8,7 +8,7 @@
       </td>
   </tr>
 </table>
-<b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; C &#x2022; Assembly Language <br>
+<b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; <br>
 <h3 text-align:center>Projects</h3>
 <table>
   <tr>
