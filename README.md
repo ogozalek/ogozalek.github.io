@@ -34,11 +34,12 @@
     <br>
     Tech Stack: Python (pandas, matplotlib, haversine), MySQL, Flask, HTML, JSON, Docker, Maven Springboot, Debezium, CDC, nano, MongoDB, javamaven<br>
     </td>
-    <td><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Netflix World Traveler</a><br>
+    <td><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Netflix World Traveler</a>*<br>
     <img src="worldmap.png" width='300'/><br>  
       This project analyzes my Netflix <i>ViewingActivity.csv</i> file to track TV series I've watched from all over the world.<br>
     <br>
     Tech Stack: Python, CSV file processing, HTML, Flask, machine learning<br>
+    * This is a personal project for educational purposes only.
     </td>
   </tr>
 </table>
