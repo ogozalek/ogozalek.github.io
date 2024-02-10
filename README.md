@@ -10,7 +10,7 @@
 </table>
 <b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; <br>
 <h3 text-align:center>Projects</h3>
-<table table-layout: fixed>
+<table>
   <tr valign="TOP">
     <td><a href="https://github.com/ogozalek/Predict_Housing_Prices">Building a Model to Predict Housing Prices </a><br>
     <img src="scatterplot1.png" width='300'/><br>  
@@ -27,7 +27,6 @@
   </table>
  
   <table>
-    <table-layout: fixed>
     <tr valign="TOP">
     <td><a href="https://github.com/ogozalek/Transit_Application">Building a Transit Data Application </a><br>
     <img src="mbtaMap.png" width='300'/><br>
@@ -65,5 +64,5 @@
 
 Creating a Books Web Application<br>
 Creating a Sensemaking Data Pipeline<br>
-<!-- Analyzing Live Streaming Data Using ThingsBoard<br> -->
-<!-- * not for final version: <a href="https://github.com/ogozalek/PCDE-Activity-9.1">Repository for Activities 9.1 and 9.2 </a> -->
+Analyzing Live Streaming Data Using ThingsBoard<br>
+* not for final version: <a href="https://github.com/ogozalek/PCDE-Activity-9.1">Repository for Activities 9.1 and 9.2 </a>
