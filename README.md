@@ -55,7 +55,7 @@
     <br>
     Tech Stack: Mosquitto mqtt, Docker, ThingsBoard, Python, Telegram bots<br>
     </td>
-    <td><a href="https://github.com/ogozalek/Deep_Dream/blob/main/README.md">Deep Neural Networks with Deep Dream</a>*<br>
+    <td><a href="https://github.com/ogozalek/Deep_Dream/blob/main/README.md">Deep Neural Networks with Deep Dream</a><br>
     <img src="pumpkin.png" width='300'/><br>  
       This project demonstrates how Deep Dream uses deep neural networks to edit an image of my robotic cat, Pumpkin.<br>
     <br>
