@@ -10,8 +10,7 @@
 </table>
 <b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; <br>
 <h3 text-align:center>Projects</h3>
-<table>
-  <table-layout: fixed>
+<table table-layout: fixed>
   <tr valign="TOP">
     <td><a href="https://github.com/ogozalek/Predict_Housing_Prices">Building a Model to Predict Housing Prices </a><br>
     <img src="scatterplot1.png" width='300'/><br>  
