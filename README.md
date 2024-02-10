@@ -1,4 +1,4 @@
-<!-- # ogozalek.github.io -->
+# ogozalek.github.io
 <table>
   <tr>
     <td><img src="photo_april2023.png" width='100'/></td>
