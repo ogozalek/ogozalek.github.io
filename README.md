@@ -1,5 +1,4 @@
 <!-- # ogozalek.github.io -->
-<head><title>ogozalek.github.com</title></head>
 <table>
   <tr>
     <td><img src="photo_april2023.png" width='100'/></td>
