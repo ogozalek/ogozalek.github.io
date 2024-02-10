@@ -51,16 +51,15 @@
     <tr valign="TOP">
     <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Canadian Wildfires Air Quality Sensor Alarm </a><br>
     <img src="orangeAir.png" width='300'/><br>
-      This project uses the API for Boston's MBTA system to display the position of buses on a map on a website.<br>
+      This IoT project uses Mosquitto and ThingsBoard with a PurpleAir AQI sensor to sound an alarm and send a message to my iPhone when Canadian wildfires make the air outside my house dangerous to breathe.<br>
     <br>
-    Tech Stack: Python (pandas, matplotlib, haversine), MySQL, Flask, HTML, JSON, Docker, Maven Springboot, Debezium, CDC, nano, MongoDB, javamaven<br>
+    Tech Stack: Mosquitto mqtt, Docker, ThingsBoard, Python, Telegram bots<br>
     </td>
-    <td><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Netflix World Traveler</a>*<br>
-    <img src="worldmap.png" width='300'/><br>  
-      This project analyzes my Netflix <i>ViewingActivity.csv</i> file to track TV series I've watched from all over the world.<br>
+    <td><a href="https://github.com/ogozalek/Deep_Dream/blob/main/README.md">Deep Neural Networks with Deep Dream</a>*<br>
+    <img src="pumpkin.png" width='300'/><br>  
+      This project demonstrates how Deep Dream uses deep neural networks to edit an image of my robotic cat, Pumpkin.<br>
     <br>
-    Tech Stack: Python, CSV file processing, HTML, Flask, machine learning<br>
-    * This is a personal project for educational purposes only.
+    Tech Stack: Deep Dream, Python (NumPy, TensorFlow), machine learning (deep neural networks)<br>
     </td>
   </tr>
 </table>
