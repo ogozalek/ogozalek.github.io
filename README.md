@@ -11,7 +11,8 @@
 <b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; <br>
 <h3 text-align:center>Projects</h3>
 <table>
-  <tr>
+  <table-layout: fixed>
+  <tr valign="TOP">
     <td><a href="https://github.com/ogozalek/Predict_Housing_Prices">Building a Model to Predict Housing Prices </a><br>
     <img src="scatterplot1.png" width='300'/><br>  
     This project uses multiple linear regression to predict housing prices based on a dataset for residential houses in Ames, Iowa.<br>
@@ -27,9 +28,29 @@
   </table>
  
   <table>
-    <tr>
+    <table-layout: fixed>
+    <tr valign="TOP">
     <td><a href="https://github.com/ogozalek/Transit_Application">Building a Transit Data Application </a><br>
     <img src="mbtaMap.png" width='300'/><br>
+      This project uses the API for Boston's MBTA system to display the position of buses on a map on a website.<br>
+    <br>
+    Tech Stack: Python (pandas, matplotlib, haversine), MySQL, Flask, HTML, JSON, Docker, Maven Springboot, Debezium, CDC, nano, MongoDB, javamaven<br>
+    </td>
+    <td><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Netflix World Traveler</a>*<br>
+    <img src="worldmap.png" width='300'/><br>  
+      This project analyzes my Netflix <i>ViewingActivity.csv</i> file to track TV series I've watched from all over the world.<br>
+    <br>
+    Tech Stack: Python, CSV file processing, HTML, Flask, machine learning<br>
+    * This is a personal project for educational purposes only.
+    </td>
+  </tr>
+</table>
+
+<table>
+    <table-layout: fixed>
+    <tr valign="TOP">
+    <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Canadian Wildfires Air Quality Sensor Alarm </a><br>
+    <img src="orangeAir.png" width='300'/><br>
       This project uses the API for Boston's MBTA system to display the position of buses on a map on a website.<br>
     <br>
     Tech Stack: Python (pandas, matplotlib, haversine), MySQL, Flask, HTML, JSON, Docker, Maven Springboot, Debezium, CDC, nano, MongoDB, javamaven<br>
