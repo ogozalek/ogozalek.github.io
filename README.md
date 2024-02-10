@@ -45,7 +45,6 @@
 </table>
 
 <table>
-    <table-layout: fixed>
     <tr valign="TOP">
     <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Canadian Wildfires Air Quality Sensor Alarm </a><br>
     <img src="orangeAir.png" width='300'/><br>
