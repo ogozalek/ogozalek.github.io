@@ -36,7 +36,7 @@
     </td>
     <td><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Netflix World Traveler</a>*<br>
     <img src="worldmap.png" width='300'/><br>  
-      This project analyzes my Netflix <i>ViewingActivity.csv</i> file to track TV series I've watched from all over the world.<br>
+      This project analyzes my Netflix <i>ViewingActivity.csv</i> file to track international TV series I've watched.<br>
     <br>
     Tech Stack: Python, CSV file processing, HTML, Flask, machine learning<br>
     * This is a personal project for educational purposes only.
@@ -48,7 +48,7 @@
     <tr valign="TOP">
     <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Canadian Wildfires Air Quality Sensor Alarm </a><br>
     <img src="orangeAir.png" width='300'/><br>
-      This IoT project uses Mosquitto and ThingsBoard with a PurpleAir AQI sensor to sound an alarm when Canadian wildfires make the air dangerous to breathe.<br>
+      This IoT project uses Mosquitto and ThingsBoard with a PurpleAir AQI sensor to sound an alarm when smoke from the Canadian wildfires makes the air outside dangerous to breathe.<br>
     <br>
     Tech Stack: Mosquitto mqtt, Docker, ThingsBoard, Python, Telegram bots<br>
     </td>
