@@ -48,18 +48,13 @@
  
   <table>
     <tr valign="TOP">
-    <td><a href="https://github.com/ogozalek/Transit_Application">Building a Transit Data Application </a><br>
-    <img src="mbtaMap.png" width='300'/><br>
-      This project uses the API for Boston's MBTA system to display the position of buses on a map on a website.<br>
-    <br>
-    Tech Stack: Python (pandas, matplotlib, haversine), MySQL, Flask, HTML, JSON, Docker, Maven Springboot, Debezium, CDC, nano, MongoDB, javamaven<br>
+     <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Canadian Wildfires Air Quality Sensor Alarm </a><br>
+    <img src="orangeAir.png" width='200'/><br>
+      Use ThingsBoard with a PurpleAir AQI sensor.
     </td>
-    <td><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Netflix World Traveler</a>*<br>
-    <img src="worldmap.png" width='300'/><br>  
-      This project analyzes my Netflix <i>ViewingActivity.csv</i> file to track international TV series I've watched.<br>
-    <br>
-    Tech Stack: Python, CSV file processing, HTML, Flask, machine learning<br>
-    * This is a personal project for educational purposes only.
+    <td><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Netflix World Traveler</a><br>
+    <img src="worldmap.png" width='200'/><br>  
+      Track Netflix TV series from around the world.
     </td>
   </tr>
 </table>
