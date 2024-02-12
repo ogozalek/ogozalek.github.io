@@ -23,8 +23,7 @@
       </td>
   </tr>
 </table>
-<b>Education:</b> &#x2022; MIT xPRO Certificate in Data Engineering (2023) &#x2022; Harvard University - ALM Studio Arts, Film & Photogaphy (2002) <br>
-Northeastern University - PhD Law & Public Policy (1992) &#x2022; WPI - MS Computer Science (1985) &#x2022; Colby College - BA Psychology (1976)<br><br>
+<b>Education:</b> &#x2022; MIT xPRO Certificate in Data Engineering (2023) &#x2022; Harvard University - ALM Studio Arts, Film & Photogaphy (2002) &#x2022; Northeastern University - PhD Law & Public Policy (1992) &#x2022; WPI - MS Computer Science (1985) &#x2022; Colby College - BA Psychology (1976)<br><br>
 <b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; Excel &#x2022; macOS &#x2022; Windows 11 &#x2022; JavaScript &#x2022; Docker &#x2022; Postman &#x2022; Flask &#x2022; Bootstrap &#x2022; MySQL
 &#x2022; Mongo DB &#x2022; Redis &#x2022; Cassandra &#x2022; Firebase &#x2022; Java &#x2022; Debezium &#x2022; Mapbox &#x2022; Maven &#x2022; NiFi &#x2022; Hadoop &#x2022; Spark &#x2022; Airflow &#x2022; ThingsBoard
 &#x2022; Mosquitto &#x2022; Kafka &#x2022; Predictive Machine Learning &#x2022; Artifical Intellegence &#x2022; Deep Neural Networks &#x2022; Agile Development &#x2022; SPSS 
