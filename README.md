@@ -18,8 +18,7 @@
     <td><i>I program my home computer, beam myself into the future.</i><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Kraftwerk, <i>Computer World</i><br>
       <br>
-      20+ years of coding experience, with an interlude<br> 
-      of going to the woods to build houses.
+      20+ years of coding experience, with an interlude of going to the woods to build houses.
       </td>
   </tr>
 </table>
