@@ -28,7 +28,7 @@
 &#x2022; Mongo DB &#x2022; Redis &#x2022; Cassandra &#x2022; Firebase &#x2022; Mapbox &#x2022; Hadoop &#x2022; Spark &#x2022; Airflow &#x2022; ThingsBoard
 &#x2022; Mosquitto &#x2022; Kafka &#x2022; SPSS 
 &#x2022; C &#x2022; HTML &#x2022; Lisp &#x2022; COBOL &#x2022; FORTRAN &#x2022; IBM 360 Assembly Language (BAL)<br><br>
-<b>Projects</b>
+<b>Projects:</b>
 <table>
   <tr valign="TOP">
     <td><a href="https://github.com/ogozalek/Predict_Housing_Prices">Building a Model to Predict Housing Prices </a><br>
@@ -59,5 +59,4 @@
     </td>
   </tr>
 </table>
-<br>
 <b>Awards & Achievements:</b> &#x2022; <i>Jeopardy!</i> Contestant (2011) &#x2022; Crite Prize for thesis "Pop Goes the Electric Chair: Interpreting an American Icon From Warhol to the Web" (Harvard University 2002) &#x2022; Special Thanks credit in Errol Morris's <i>Mr. Death</i> (1999)
