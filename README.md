@@ -50,24 +50,12 @@
     <tr valign="TOP">
      <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Canadian Wildfires Air Quality Sensor Alarm </a><br>
     <img src="orangeAir.png" width='200'/><br>
-      Use ThingsBoard with a PurpleAir AQI sensor.
+      Use ThingsBoard with an AQI sensor to sound an alarm<br>
+       when smoke makes breathing outside dangerous.
     </td>
     <td><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Netflix World Traveler</a><br>
     <img src="worldmap.png" width='200'/><br>  
       Track Netflix TV series from around the world.
-    </td>
-  </tr>
-</table>
-
-<table>
-    <tr valign="TOP">
-    <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Canadian Wildfires Air Quality Sensor Alarm </a><br>
-    <img src="orangeAir.png" width='300'/><br>
-      This IoT project uses Mosquitto and ThingsBoard with a PurpleAir AQI sensor to sound an alarm when smoke from the Canadian wildfires makes the air outside dangerous to breathe.<br>
-    <br>
-    Tech Stack: Mosquitto mqtt, Docker, ThingsBoard, Python, Telegram bots<br>
-    </td>
-     <td>TK<br>
     </td>
   </tr>
 </table>
