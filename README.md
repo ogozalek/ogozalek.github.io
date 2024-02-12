@@ -11,15 +11,16 @@
 </html> -->
 
 <!-- # ogozalek.github.io -->
+<h1>Virginia Ogozalek</h1>
 <table>
   <tr>
     <td><img src="photo_april2023.png" width='100'/></td>
-    <td><h1>Virginia Ogozalek</h1>
-      <h2>MIT xPRO Certificate in Data Engineering<br>
-      May 2023</h2>
+    <td><i>I program my home computer, beam myself into the future.</i><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kraftwerk, <i>Computer World</i> 
       </td>
   </tr>
 </table>
+<b>Education:</b> &#x2022; MIT xPRO Certificate in Data Engineering (2023) &#x2022; SQL &#x2022; <br>
 <b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; <br>
 <h3 text-align:center>Projects</h3>
 <table>
