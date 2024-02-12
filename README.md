@@ -1,3 +1,8 @@
+---
+layout: post
+title: ogozalek.github.io
+---
+
 <!-- doctype html -->
 <html lang="en">
   <head>
