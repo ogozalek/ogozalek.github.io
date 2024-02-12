@@ -50,7 +50,7 @@
     <tr valign="TOP">
      <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Canadian Wildfires Air Quality Sensor Alarm </a><br>
     <img src="orangeAir.png" width='200'/><br>
-      Use ThingsBoard with an AQI sensor to sound an alarm<br>
+      Use ThingsBoard with an AQI sensor to sound an alarm
        when smoke makes breathing outside dangerous.
     </td>
     <td><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Netflix World Traveler</a><br>
