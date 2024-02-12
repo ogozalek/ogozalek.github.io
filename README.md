@@ -59,4 +59,4 @@
     </td>
   </tr>
 </table>
-<b>Awards & Achievements:</b> &#x2022; <i>Jeopardy!</i> Contestant (2011) &#x2022; Crite Prize for thesis "Pop Goes the Electric Chair: Interpreting an American Icon From Warhol to the Web" (Harvard University 2002) &#x2022; Special Thanks credit in Errol Morris's film <i>Mr. Death</i> (1999) &#x2022; Invited Admiral Grace Hopper to be Commencement Speaker at my Mom's Alma Mater, Worcester State College (1984)
+<b>Awards & Achievements:</b> &#x2022; <i>Jeopardy!</i> Contestant (2011) &#x2022; Crite Prize for thesis "Pop Goes the Electric Chair: Interpreting an American Icon From Warhol to the Web" (Harvard University 2002) &#x2022; Special Thanks credit in Errol Morris's film <i>Mr. Death</i> (1999) &#x2022; Invited Admiral Grace Hopper to be Commencement Speaker at my Mom's Alma Mater, Worcester State College (<a href="https://github.com/ogozalek/Grace_Hopper">1984</a>)
