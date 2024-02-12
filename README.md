@@ -16,7 +16,10 @@
   <tr>
     <td><img src="photo_april2023.png" width='100'/></td>
     <td><i>I program my home computer, beam myself into the future.</i><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kraftwerk, <i>Computer World</i> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Kraftwerk, <i>Computer World</i><br>
+      <br>
+      20+ years of programming experience, with an interlude<br> 
+      of going to the woods to build houses.
       </td>
   </tr>
 </table>
