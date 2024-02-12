@@ -24,8 +24,8 @@
   </tr>
 </table>
 <b>Education:</b> &#x2022; MIT xPRO Certificate in Data Engineering (2023) &#x2022; Harvard University - ALM Studio Arts, Film & Photogaphy (2002) &#x2022; <br>
-Northeastern University - PhD Law & Public Policy (1992) &#x2022; WPI - MS Computer Science (1985) &#x2022; Colby College - BA Psychology (1976)<br>
-<b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; <br>
+Northeastern University - PhD Law & Public Policy (1992) &#x2022; WPI - MS Computer Science (1985) &#x2022; Colby College - BA Psychology (1976)<br><br>
+<b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; Excel &#x2022; macOS &#x2022; Windows 11 &#x2022; JavaScript &#x2022;<br>
 <h3 text-align:center>Projects</h3>
 <table>
   <tr valign="TOP">
