@@ -28,20 +28,21 @@
 &#x2022; Mongo DB &#x2022; Redis &#x2022; Cassandra &#x2022; Firebase &#x2022; Java &#x2022; Debezium &#x2022; Mapbox &#x2022; Maven &#x2022; NiFi &#x2022; Hadoop &#x2022; Spark &#x2022; Airflow &#x2022; ThingsBoard
 &#x2022; Mosquitto &#x2022; Kafka &#x2022; Predictive Machine Learning &#x2022; Artifical Intellegence &#x2022; Deep Neural Networks &#x2022; Agile Development &#x2022; SPSS 
 &#x2022; C &#x2022; HTML &#x2022; Lisp &#x2022; COBOL &#x2022; FORTRAN &#x2022; IBM 360 Assembly Language (BAL)<br>
-<h3 text-align:center>Projects</h3>
+<b>Projects</b>
 <table>
   <tr valign="TOP">
     <td><a href="https://github.com/ogozalek/Predict_Housing_Prices">Building a Model to Predict Housing Prices </a><br>
-    <img src="scatterplot1.png" width='300'/><br>  
-    This project uses multiple linear regression to predict housing prices based on a dataset for residential houses in Ames, Iowa.<br>
-    <br>
-      Tech Stack: Python (pandas, numpy, matplotlib, sklearn, seaborn), CSV file processing<br></td>
+    <img src="scatterplot1.png" width='200'/><br>  
+    Use multiple linear regression to predict housing prices.
+    </td>
     <td><a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Exploring Effects of the COVID-19 Lockdowns on Retail Sales </a><br>
-     <img src="lineplot1.png" width='300'/><br>
-      This project uses ETL to analyze the Monthly Retail Trade Survey (MRTS) dataset for the year 2020.<br>
-      <br>
-    Tech Stack: Python (matplotlib, yaml), MySQL, CSV file processing<br>
+     <img src="lineplot1.png" width='200'/><br>
+      Use ETL to analyze the Monthly Retail Trade Survey (MRTS).
       </td>
+    <td><a href="https://github.com/ogozalek/Transit_Application">Building a Transit Data Application </a><br>
+    <img src="mbtaMap.png" width='200'/><br>
+      Use API for Boston's MBTA system.
+    </td>
   </tr>
   </table>
  
