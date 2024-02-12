@@ -60,4 +60,4 @@
   </tr>
 </table>
 <br>
-<b>Awards & Achievements:</b> &#x2022; <i>Jeopardy!</i> Contestant (2011) &#x2022; Crite Prize Harvard University for thesis "Pop Goes the Electric Chair: Interpreting an American Icon From Warhol to the Web" (2002) &#x2022; Special Thanks in Errol Morris's Mr. Death (1999)<br><br>
+<b>Awards & Achievements:</b> &#x2022; <i>Jeopardy!</i> Contestant (2011) &#x2022; Crite Prize for thesis "Pop Goes the Electric Chair: Interpreting an American Icon From Warhol to the Web" (Harvard University 2002) &#x2022; Special Thanks credit in Errol Morris's <i>Mr. Death</i> (1999)
