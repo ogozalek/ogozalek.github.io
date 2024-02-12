@@ -1,5 +1,5 @@
 <!-- doctype html -->
-<html lang="en">
+<!-- <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,9 +8,9 @@
   <body>
     <h1>Hello, Virginia!</h1>
   </body>
-</html>
+</html> -->
 
-<!-- # ogozalek.github.io
+<!-- # ogozalek.github.io -->
 <table>
   <tr>
     <td><img src="photo_april2023.png" width='100'/></td>
@@ -72,4 +72,4 @@
 Creating a Books Web Application<br>
 Creating a Sensemaking Data Pipeline<br>
 Analyzing Live Streaming Data Using ThingsBoard<br>
-* not for final version: <a href="https://github.com/ogozalek/PCDE-Activity-9.1">Repository for Activities 9.1 and 9.2 </a> -->
+* not for final version: <a href="https://github.com/ogozalek/PCDE-Activity-9.1">Repository for Activities 9.1 and 9.2 </a> 
