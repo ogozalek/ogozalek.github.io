@@ -60,4 +60,4 @@
   </tr>
 </table>
 <br>
-<b>Awards & Achievements:</b> &#x2022; <i>Jeopardy!</i> Contestant (2011) &#x2022; Harvard University ALM Studio Arts, Film & Photogaphy (2002) &#x2022; Northeastern University PhD Law & Public Policy (1992) &#x2022; WPI MS Computer Science (1985) &#x2022; Colby College BA Psychology (1976)<br><br>
+<b>Awards & Achievements:</b> &#x2022; <i>Jeopardy!</i> Contestant (2011) &#x2022; Crite Prize Harvard University for thesis "Pop Goes the Electric Chair: Interpreting an American Icon From Warhol to the Web" (2002) &#x2022; Special Thanks in Errol Morris's Mr. Death (1999)<br><br>
