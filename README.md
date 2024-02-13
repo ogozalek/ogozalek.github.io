@@ -1,25 +1,13 @@
-<!-- doctype html -->
-<!-- <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
-  </head>
-  <body>
-    <h1>Hello, Virginia!</h1>
-  </body>
-</html> -->
-
 <!-- # ogozalek.github.io -->
 <h1>Virginia Ogozalek</h1>
 <table>
-  <tr>
+  <tr valign="TOP">
     <td><img src="photo_april2023.png" width='100'/></td>
-    <td><!-- <i>I program my home computer, beam myself into the future.</i> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Kraftwerk, <i>Computer World</i> --><br>
+    <td><br>
       <br>
-      20+ years of coding experience<!-- , with an interlude of going to the woods<br> 
-      to build houses.-->
+      20+ years of coding experience<br>
+      Master's degree in computer science<br>
+      MIT xPRO certificate in data engineering
       </td>
   </tr>
 </table>
