@@ -15,15 +15,15 @@
 <table>
   <tr>
     <td><img src="photo_april2023.png" width='100'/></td>
-    <td><i>I program my home computer, beam myself into the future.</i><br>
+    <td><!-- <i>I program my home computer, beam myself into the future.</i> --><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Kraftwerk, <i>Computer World</i><br>
       <br>
-      20+ years of coding experience, with an interlude of going to the woods<br> 
-      to build houses.
+      20+ years of coding experience<!-- , with an interlude of going to the woods<br> 
+      to build houses.-->
       </td>
   </tr>
 </table>
-<b>Education:</b> &#x2022; MIT xPRO Certificate in Data Engineering (2023) &#x2022; Harvard University ALM Studio Arts, Film & Photogaphy (2002) &#x2022; Northeastern University PhD Law & Public Policy (1992) &#x2022; WPI MS Computer Science (1985) &#x2022; Colby College BA Psychology (1976)<br><br>
+<!-- <b>Education:</b> &#x2022; MIT xPRO Certificate in Data Engineering (2023) &#x2022; Harvard University ALM Studio Arts, Film & Photogaphy (2002) &#x2022; Northeastern University PhD Law & Public Policy (1992) &#x2022; WPI MS Computer Science (1985) &#x2022; Colby College BA Psychology (1976)<br><br> -->
 <b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; Excel &#x2022; macOS &#x2022; Windows 11 &#x2022; JavaScript &#x2022; Docker &#x2022; Flask
 &#x2022; Mongo DB &#x2022; Redis &#x2022; Cassandra &#x2022; Firebase &#x2022; Mapbox &#x2022; Hadoop &#x2022; Spark &#x2022; Airflow &#x2022; ThingsBoard
 &#x2022; Mosquitto &#x2022; Kafka &#x2022; SPSS 
@@ -59,4 +59,4 @@
     </td>
   </tr>
 </table>
-<b>Awards & Achievements:</b> &#x2022; <i>Jeopardy!</i> Contestant (2011) &#x2022; Crite Prize for thesis "Pop Goes the Electric Chair: Interpreting an American Icon From Warhol to the Web" (Harvard University 2002) &#x2022; Special Thanks credit in Errol Morris's film <i>Mr. Death</i> (1999) &#x2022; Invited Admiral Grace Hopper to be Commencement Speaker at my Mom's Alma Mater, Worcester State College (<a href="https://github.com/ogozalek/Grace_Hopper">1984</a>)
+<!-- <b>Awards & Achievements:</b> &#x2022; <i>Jeopardy!</i> Contestant (2011) &#x2022; Crite Prize for thesis "Pop Goes the Electric Chair: Interpreting an American Icon From Warhol to the Web" (Harvard University 2002) &#x2022; Special Thanks credit in Errol Morris's film <i>Mr. Death</i> (1999) &#x2022; Invited Admiral Grace Hopper to be Commencement Speaker at my Mom's Alma Mater, Worcester State College (<a href="https://github.com/ogozalek/Grace_Hopper">1984</a>) -->
