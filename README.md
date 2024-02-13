@@ -15,8 +15,8 @@
 <table>
   <tr>
     <td><img src="photo_april2023.png" width='100'/></td>
-    <td><!-- <i>I program my home computer, beam myself into the future.</i> --><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Kraftwerk, <i>Computer World</i><br>
+    <td><!-- <i>I program my home computer, beam myself into the future.</i> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Kraftwerk, <i>Computer World</i> --><br>
       <br>
       20+ years of coding experience<!-- , with an interlude of going to the woods<br> 
       to build houses.-->
