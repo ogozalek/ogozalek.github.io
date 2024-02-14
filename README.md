@@ -12,10 +12,10 @@
   </tr>
 </table>
 <!-- <b>Education:</b> &#x2022; MIT xPRO Certificate in Data Engineering (2023) &#x2022; Harvard University ALM Studio Arts, Film & Photogaphy (2002) &#x2022; Northeastern University PhD Law & Public Policy (1992) &#x2022; WPI MS Computer Science (1985) &#x2022; Colby College BA Psychology (1976)<br><br> -->
-<b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; Excel &#x2022; macOS &#x2022; Windows 11 &#x2022; JavaScript &#x2022; Docker &#x2022; Flask
+<!-- <b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; Excel &#x2022; macOS &#x2022; Windows 11 &#x2022; JavaScript &#x2022; Docker &#x2022; Flask
 &#x2022; Mongo DB &#x2022; Redis &#x2022; Cassandra &#x2022; Firebase &#x2022; Mapbox &#x2022; Hadoop &#x2022; Spark &#x2022; Airflow &#x2022; ThingsBoard
 &#x2022; Mosquitto &#x2022; Kafka &#x2022; SPSS 
-&#x2022; C &#x2022; HTML &#x2022; Lisp &#x2022; COBOL &#x2022; FORTRAN &#x2022; IBM 360 Assembly Language (BAL)<br><br>
+&#x2022; C &#x2022; HTML &#x2022; Lisp &#x2022; COBOL &#x2022; FORTRAN &#x2022; IBM 360 Assembly Language (BAL)<br><br> -->
 <h3>Projects:</h3>
 <table>
   <tr>
@@ -31,10 +31,10 @@
     <td>
      <img src="lineplot1.png" height='200'/><br>
      <b>Tech Stack:</b> Python (matplotlib, yaml), MySQL, ETL (Extract, Transform, Load)
-      </td>
+     </td>
     <td>
     <img src="mbtaMap.png" height='200'/><br>
-      Use API for Boston's MBTA system.
+      <b>Tech Stack:</b> SQL, Docker, Flask, JSON, Docker, Debezium, CDC
     </td>
   </tr>
   </table>
