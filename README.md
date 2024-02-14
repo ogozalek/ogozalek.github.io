@@ -47,7 +47,7 @@
   </tr>
   <tr valign="TOP">
     <td>
-    <img src="orangeAir.png" height='200'/><br>  
+    <img src="yellowAir.png" height='200'/><br>  
     <b>Tech Stack:</b> MQTT, ThingsBoard, Docker, Python, Telegram bots
     </td>
     <td>
