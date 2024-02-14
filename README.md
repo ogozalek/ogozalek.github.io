@@ -52,7 +52,7 @@
     </td>
     <td>
      <img src="worldmap.png" height='200'/><br>
-     <b>Tech Stack:</b> Python (matplotlib, yaml), MySQL, ETL (Extract, Transform, Load)
+     <b>Tech Stack:</b> Python, CSV file processing, HTML, Flask, machine learning
      </td>
     <td>
     <img src="mbtaMap.png" height='200'/><br>
@@ -61,8 +61,7 @@
   </tr>
   </table>
  
-  <!--
-  <table>
+  <!-- <table>
     <tr valign="TOP">
      <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Monitor Smoke from Canadian Wildfires With IoT Air Quality Sensor</a><br>
     <img src="orangeAir.png" width='200'/><br>
