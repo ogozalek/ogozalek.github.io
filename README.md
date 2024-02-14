@@ -41,7 +41,7 @@
 
   <table>
   <tr>
-    <th width="34%"><a href="https://github.com/ogozalek/Canadian_Wildfires">Canadian Wildfires Air Quality Sensor Alarm </a></th>
+    <th width="34%"><a href="https://github.com/ogozalek/Canadian_Wildfires">Monitor Smoke Levels from Canadian Wildfires with IoT Air Quality Sensor</a></th>
     <th width="33%"><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Watch TV Series Around the World with Netflix World Traveler</a></th>
     <th width="33%"><a href="https://github.com/ogozalek/Transit_Application">One More Project Goes Here</a></th>
   </tr>
