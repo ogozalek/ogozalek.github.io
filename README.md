@@ -18,6 +18,11 @@
 &#x2022; C &#x2022; HTML &#x2022; Lisp &#x2022; COBOL &#x2022; FORTRAN &#x2022; IBM 360 Assembly Language (BAL)<br><br>
 <b>Projects:</b>
 <table>
+  <tr>
+    <th width="34%"><a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Building a Model to Predict Housing Prices </a></th>
+    <th width="33%">Column 2</th>
+    <th width="33%">Column 3</th>
+  </tr>
   <tr valign="TOP">
     <td><a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Building a Model to Predict Housing Prices </a><br>
     <img src="scatterplot1.png" width='200'/><br>  
