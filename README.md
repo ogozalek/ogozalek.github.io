@@ -19,21 +19,21 @@
 <b>Projects:</b>
 <table>
   <tr>
-    <th width="34%"><a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Building a Model to Predict Housing Prices </a></th>
-    <th width="33%"><a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Exploring Effects of the COVID-19 Lockdowns on Retail Sales </a></th>
-    <th width="33%"><a href="https://github.com/ogozalek/Transit_Application">Building a Transit Data Application </a></th>
+    <th width="34%"><a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Predict Housing Prices Using Multiple Linear Regression</a></th>
+    <th width="33%"><a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Explore Effects of the COVID-19 Lockdowns on Retail Sales </a></th>
+    <th width="33%"><a href="https://github.com/ogozalek/Transit_Application">Build a Transit Data Application with the API for Boston's MBTA system</a></th>
   </tr>
   <tr valign="TOP">
     <td>
-    <img src="scatterplot1.png" width='200'/><br>  
+    <img src="scatterplot1.png" height='200'/><br>  
     Use multiple linear regression to predict housing prices.
     </td>
     <td>
-     <img src="lineplot1.png" width='200'/><br>
+     <img src="lineplot1.png" height='200'/><br>
       Use ETL to analyze the Monthly Retail Trade Survey (MRTS).
       </td>
     <td>
-    <img src="mbtaMap.png" width='200'/><br>
+    <img src="mbtaMap.png" height='200'/><br>
       Use API for Boston's MBTA system.
     </td>
   </tr>
