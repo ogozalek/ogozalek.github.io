@@ -24,7 +24,7 @@
     <th width="33%">Column 3</th>
   </tr>
   <tr valign="TOP">
-    <td><a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Building a Model to Predict Housing Prices </a><br>
+    <td>
     <img src="scatterplot1.png" width='200'/><br>  
     Use multiple linear regression to predict housing prices.
     </td>
