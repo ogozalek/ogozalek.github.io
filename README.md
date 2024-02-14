@@ -26,11 +26,11 @@
   <tr valign="TOP">
     <td>
     <img src="scatterplot1.png" height='200'/><br>  
-    <b>Tech Stack:</b> Use multiple linear regression to predict housing prices.
+    <b>Tech Stack:</b> Python (pandas, numpy, sklearn, seaborn), CSV file processing
     </td>
     <td>
      <img src="lineplot1.png" height='200'/><br>
-      Use ETL to analyze the Monthly Retail Trade Survey (MRTS).
+     <b>Tech Stack:</b> Python (matplotlib, yaml), MySQL, ETL (Extract, Transform, Load)
       </td>
     <td>
     <img src="mbtaMap.png" height='200'/><br>
