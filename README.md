@@ -38,6 +38,28 @@
     </td>
   </tr>
   </table>
+
+  <table>
+  <tr>
+    <th width="34%"><a href="https://github.com/ogozalek/Canadian_Wildfires">Canadian Wildfires Air Quality Sensor Alarm </a></th>
+    <th width="33%"><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Netflix World Traveler</a></th>
+    <th width="33%"><a href="https://github.com/ogozalek/Transit_Application">One More Project Goes Here</a></th>
+  </tr>
+  <tr valign="TOP">
+    <td>
+    <img src="orangeAir.png" height='200'/><br>  
+    <b>Tech Stack:</b> Python (pandas, numpy, sklearn, seaborn), CSV file processing
+    </td>
+    <td>
+     <img src="worldmap.png" height='200'/><br>
+     <b>Tech Stack:</b> Python (matplotlib, yaml), MySQL, ETL (Extract, Transform, Load)
+     </td>
+    <td>
+    <img src="mbtaMap.png" height='200'/><br>
+      <b>Tech Stack:</b> SQL, Docker, Flask, JSON, Docker, Debezium, CDC
+    </td>
+  </tr>
+  </table>
  
   <table>
     <tr valign="TOP">
