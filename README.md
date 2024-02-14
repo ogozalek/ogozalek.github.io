@@ -64,7 +64,7 @@
   <!--
   <table>
     <tr valign="TOP">
-     <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Canadian Wildfires Air Quality Sensor Alarm </a><br>
+     <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Monitor Smoke from Canadian Wildfires With IoT Air Quality Sensor</a><br>
     <img src="orangeAir.png" width='200'/><br>
       Use ThingsBoard with an AQI sensor to sound an alarm
        when smoke makes breathing outside dangerous.
