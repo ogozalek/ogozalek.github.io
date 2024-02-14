@@ -20,7 +20,7 @@
 <table>
   <tr>
     <th width="34%"><a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Building a Model to Predict Housing Prices </a></th>
-    <th width="33%">Column 2</th>
+    <th width="33%"><a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Exploring Effects of the COVID-19 Lockdowns on Retail Sales </a></th>
     <th width="33%">Column 3</th>
   </tr>
   <tr valign="TOP">
@@ -28,7 +28,7 @@
     <img src="scatterplot1.png" width='200'/><br>  
     Use multiple linear regression to predict housing prices.
     </td>
-    <td><a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Exploring Effects of the COVID-19 Lockdowns on Retail Sales </a><br>
+    <td>
      <img src="lineplot1.png" width='200'/><br>
       Use ETL to analyze the Monthly Retail Trade Survey (MRTS).
       </td>
