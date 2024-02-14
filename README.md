@@ -16,7 +16,7 @@
 &#x2022; Mongo DB &#x2022; Redis &#x2022; Cassandra &#x2022; Firebase &#x2022; Mapbox &#x2022; Hadoop &#x2022; Spark &#x2022; Airflow &#x2022; ThingsBoard
 &#x2022; Mosquitto &#x2022; Kafka &#x2022; SPSS 
 &#x2022; C &#x2022; HTML &#x2022; Lisp &#x2022; COBOL &#x2022; FORTRAN &#x2022; IBM 360 Assembly Language (BAL)<br><br>
-<b>Projects:</b>
+<h3>Projects:</h3>
 <table>
   <tr>
     <th width="34%"><a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Predict Housing Prices Using Multiple Linear Regression</a></th>
@@ -26,7 +26,7 @@
   <tr valign="TOP">
     <td>
     <img src="scatterplot1.png" height='200'/><br>  
-    Use multiple linear regression to predict housing prices.
+    <b>Tech Stack:</b> Use multiple linear regression to predict housing prices.
     </td>
     <td>
      <img src="lineplot1.png" height='200'/><br>
