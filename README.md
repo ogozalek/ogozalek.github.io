@@ -44,6 +44,15 @@
       </td>
   </tr>
 </table>
+<table>
+  <tr valign="TOP">
+    <td> <img src="yellowAir_resize2.png" width='250'/></td>
+    <td>
+      <a href="https://github.com/ogozalek/Canadian_Wildfires">Monitor Canadian Wildfire Smoke Levels with an IoT Air Quality Sensor</a><br>
+      <b>Tech Stack:</b> MQTT, ThingsBoard, Docker, Python, Telegram bots
+      </td>
+  </tr>
+</table>
 
 
 
