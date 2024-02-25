@@ -45,17 +45,19 @@
   </table>
 
   <table>
-  <tr>
+  <!-- <tr>
     <th width="34%"><a href="https://github.com/ogozalek/Canadian_Wildfires">Monitor Canadian Wildfire Smoke Levels with an IoT Air Quality Sensor</a></th>
     <th width="33%"><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Watch TV Series Around the World with Netflix World Traveler</a></th>
     <th width="33%"><a href="https://github.com/ogozalek/Transit_Application">One More Project Goes Here</a></th>
-  </tr>
+  </tr> -->
   <tr valign="TOP">
     <td>
+    <a href="https://github.com/ogozalek/Canadian_Wildfires">Monitor Canadian Wildfire Smoke Levels with an IoT Air Quality Sensor</a><br>
     <img src="yellowAir.png" height='200'/><br>  
     <b>Tech Stack:</b> MQTT, ThingsBoard, Docker, Python, Telegram bots
     </td>
     <td>
+     <a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Watch TV Series Around the World with Netflix World Traveler</a><br>
      <img src="worldmap.png" height='200'/><br>
      <b>Tech Stack:</b> Python, CSV file processing, HTML, Flask, machine learning
      </td>
