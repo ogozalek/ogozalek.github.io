@@ -28,7 +28,7 @@
   <tr valign="TOP">
     <td>
     <a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Predict Housing Prices Using Multiple Linear Regression</a>
-    <img src="scatterplot1.png" height='200'/><br>  
+    <img src="scatterplot1_resize2.png" height='200'/><br>  
     <b>Tech Stack:</b> Python (pandas, numpy, sklearn, seaborn), CSV file processing
     </td>
     <td>
@@ -38,7 +38,7 @@
      </td>
     <td>
     <a href="https://github.com/ogozalek/Transit_Application">Build a Transit Data Application with the API for Boston's MBTA system</a>
-    <img src="mbtaMap.png" height='200'/><br>
+    <img src="mbtaMap_resize2.png" height='200'/><br>
       <b>Tech Stack:</b> SQL, Docker, Flask, JSON, Docker, Debezium, CDC
     </td>
   </tr>
@@ -53,16 +53,17 @@
   <tr valign="TOP">
     <td>
     <a href="https://github.com/ogozalek/Canadian_Wildfires">Monitor Canadian Wildfire Smoke Levels with an IoT Air Quality Sensor</a><br>
-    <img src="yellowAir.png" height='200'/><br>  
+    <img src="yellowAir_resize2.png" height='200'/><br>  
     <b>Tech Stack:</b> MQTT, ThingsBoard, Docker, Python, Telegram bots
     </td>
     <td>
      <a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Watch TV Series Around the World with Netflix World Traveler</a><br>
-     <img src="worldmap.png" height='200'/><br>
+     <img src="worldmap_resize2.png" height='200'/><br>
      <b>Tech Stack:</b> Python, CSV file processing, HTML, Flask, machine learning
      </td>
     <td>
-    <img src="mbtaMap.png" height='200'/><br>
+     <a href="https://github.com/ogozalek/Transit_Application">Build a Transit Data Application with the API for Boston's MBTA system</a>
+      <img src="mbtaMap_resize2.png" height='200'/><br>
       <b>Tech Stack:</b> SQL, Docker, Flask, JSON, Docker, Debezium, CDC
     </td>
   </tr>
