@@ -28,17 +28,17 @@
   <tr valign="TOP">
     <td>
     <a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Predict Housing Prices Using Multiple Linear Regression</a>
-    <img src="scatterplot1_resize2.png" height='200'/><br>  
+    <img src="scatterplot1_resize2.png"/><br>  
     <b>Tech Stack:</b> Python (pandas, numpy, sklearn, seaborn), CSV file processing
     </td>
     <td>
       <a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Explore Effects of the COVID-19 Lockdowns on Retail Sales </a>
-      <img src="lineplot1.png" height='200'/><br>
+      <img src="lineplot1.png"/><br>
      <b>Tech Stack:</b> Python (matplotlib, yaml), MySQL, ETL (Extract, Transform, Load)
      </td>
     <td>
     <a href="https://github.com/ogozalek/Transit_Application">Build a Transit Data Application with the API for Boston's MBTA system</a>
-    <img src="mbtaMap_resize2.png" height='200'/><br>
+    <img src="mbtaMap_resize2.png" /><br>
       <b>Tech Stack:</b> SQL, Docker, Flask, JSON, Docker, Debezium, CDC
     </td>
   </tr>
