@@ -20,21 +20,24 @@
 
 <h3>Projects:</h3>
 <table>
-  <tr>
+  <!-- <tr>
     <th width="34%"><a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Predict Housing Prices Using Multiple Linear Regression</a></th>
-    <th width="33%"><a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Explore Effects of the COVID-19 Lockdowns on Retail Sales </a></th>
-    <th width="33%"><a href="https://github.com/ogozalek/Transit_Application">Build a Transit Data Application with the API for Boston's MBTA system</a></th>
-  </tr>
+    <th width="33%"> <a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Explore Effects of the COVID-19 Lockdowns on Retail Sales </a></th>
+    <th width="33%"> <a href="https://github.com/ogozalek/Transit_Application">Build a Transit Data Application with the API for Boston's MBTA system</a></th>
+  </tr> -->
   <tr valign="TOP">
     <td>
+    <a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Predict Housing Prices Using Multiple Linear Regression</a>
     <img src="scatterplot1.png" height='200'/><br>  
     <b>Tech Stack:</b> Python (pandas, numpy, sklearn, seaborn), CSV file processing
     </td>
     <td>
-     <img src="lineplot1.png" height='200'/><br>
+      <a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Explore Effects of the COVID-19 Lockdowns on Retail Sales </a>
+      <img src="lineplot1.png" height='200'/><br>
      <b>Tech Stack:</b> Python (matplotlib, yaml), MySQL, ETL (Extract, Transform, Load)
      </td>
     <td>
+    <a href="https://github.com/ogozalek/Transit_Application">Build a Transit Data Application with the API for Boston's MBTA system</a>
     <img src="mbtaMap.png" height='200'/><br>
       <b>Tech Stack:</b> SQL, Docker, Flask, JSON, Docker, Debezium, CDC
     </td>
