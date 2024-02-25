@@ -16,7 +16,7 @@
 &#x2022; Mosquitto &#x2022; Kafka &#x2022; SPSS 
 &#x2022; C &#x2022; HTML &#x2022; Lisp &#x2022; COBOL &#x2022; FORTRAN &#x2022; IBM 360 Assembly Language (BAL)<br> 
 
-<b>Projects:</b><br>
+<b>Projects:</b>
 <table>
   <tr valign="TOP">
     <td><img src="scatterplot1_resize2.png" width='250'/></td>
@@ -35,6 +35,18 @@
       </td>
   </tr>
 </table>
+<table>
+  <tr valign="TOP">
+    <td> <img src="mbtaMap_resize2.png" width='250'/></td>
+    <td>
+      <a href="https://github.com/ogozalek/Transit_Application">Build a Transit Data Application with the API for Boston's MBTA system</a><br>
+      <b>Tech Stack:</b> SQL, Docker, Flask, JSON, Docker, Debezium, CDC
+      </td>
+  </tr>
+</table>
+
+
+
 
 <h3>Projects:</h3>
 <table>
