@@ -57,7 +57,7 @@
   <tr valign="TOP">
     <td> <img src="worldmap_resize2.png" width='250'/></td>
     <td>
-      <a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Watch TV Series Around the World with Netflix World Traveler</a><br>
+      <a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Watch TV Series from Around the World with Netflix World Traveler</a><br>
       <b>Tech Stack:</b> Python, CSV file processing, HTML, Flask, machine learning
       </td>
   </tr>
