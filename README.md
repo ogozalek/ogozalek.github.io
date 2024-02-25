@@ -1,5 +1,5 @@
 <!-- # ogozalek.github.io -->
-<h1>Virginia Ogozalek, PhD</h1>
+<h1>Virginia Ogozalek</h1>
 <table>
   <tr valign="TOP">
     <td><img src="photo_april2023.png" width='150'/></td>
