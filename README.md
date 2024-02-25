@@ -3,8 +3,7 @@
 <table>
   <tr valign="TOP">
     <td><img src="photo_april2023.png" width='150'/></td>
-    <td><br>
-      <br>
+    <td>
       20+ years of coding experience<br>
       Master's Degree in Computer Science<br>
       MIT xPRO Certificate in Data Engineering
