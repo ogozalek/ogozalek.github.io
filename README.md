@@ -3,8 +3,8 @@
 
 <head>
   <title>ogozalek.github.io</title>
-  <link rel="stylesheet" type="text/css" href="resources/css/reset.css">
-  <link rel="stylesheet" type="text/css" href="resources/css/style.css">
+  <!-- <link rel="stylesheet" type="text/css" href="resources/css/reset.css"> -->
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
