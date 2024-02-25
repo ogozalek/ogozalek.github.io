@@ -26,6 +26,15 @@
       </td>
   </tr>
 </table>
+<table>
+  <tr valign="TOP">
+    <td> <img src="lineplot1.png" width='250'/></td>
+    <td>
+      <a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Explore Effects of the COVID-19 Lockdowns on Retail Sales </a><br>
+      <b>Tech Stack:</b> Python (matplotlib, yaml), MySQL, ETL (Extract, Transform, Load)
+      </td>
+  </tr>
+</table>
 
 <h3>Projects:</h3>
 <table>
