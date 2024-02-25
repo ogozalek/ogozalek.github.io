@@ -20,7 +20,7 @@
 <b>Projects:</b><br>
 <table>
   <tr valign="TOP">
-    <td><img src="scatterplot1_resize2.png" width='100'/></td>
+    <td><img src="scatterplot1_resize2.png" width='150'/></td>
     <td>
       <a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Predict Housing Prices Using Multiple Linear Regression</a><br>
       <b>Tech Stack:</b> Python (pandas, numpy, sklearn, seaborn), CSV file processing
