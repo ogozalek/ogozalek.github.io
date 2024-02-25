@@ -68,14 +68,14 @@
 
 
 
-
+<!--
 <h3>Projects:</h3>
 <table>
-  <!-- <tr>
+  <tr>
     <th width="34%"><a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Predict Housing Prices Using Multiple Linear Regression</a></th>
     <th width="33%"> <a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Explore Effects of the COVID-19 Lockdowns on Retail Sales </a></th>
     <th width="33%"> <a href="https://github.com/ogozalek/Transit_Application">Build a Transit Data Application with the API for Boston's MBTA system</a></th>
-  </tr> -->
+  </tr> 
   <tr valign="TOP">
     <td>
     <a href="https://github.com/ogozalek/Predict_Housing_Prices/README.md">Predict Housing Prices Using Multiple Linear Regression</a>
@@ -96,11 +96,11 @@
   </table>
 
   <table>
-  <!-- <tr>
+   <tr>
     <th width="34%"><a href="https://github.com/ogozalek/Canadian_Wildfires">Monitor Canadian Wildfire Smoke Levels with an IoT Air Quality Sensor</a></th>
     <th width="33%"><a href="https://github.com/ogozalek/Netflix_World_Traveler/blob/main/README.md">Watch TV Series Around the World with Netflix World Traveler</a></th>
     <th width="33%"><a href="https://github.com/ogozalek/Transit_Application">One More Project Goes Here</a></th>
-  </tr> -->
+  </tr> 
   <tr valign="TOP">
     <td>
     <a href="https://github.com/ogozalek/Canadian_Wildfires">Monitor Canadian Wildfire Smoke Levels with an IoT Air Quality Sensor</a><br>
@@ -112,15 +112,15 @@
      <img src="worldmap_resize2.png" height='200'/><br>
      <b>Tech Stack:</b> Python, CSV file processing, HTML, Flask, machine learning
      </td>
-    <!-- <td>
+     <td>
      <a href="https://github.com/ogozalek/Transit_Application">Build a Transit Data Application with the API for Boston's MBTA system</a>
       <img src="mbtaMap_resize2.png" height='200'/><br>
       <b>Tech Stack:</b> SQL, Docker, Flask, JSON, Docker, Debezium, CDC
-    </td> -->
+    </td> 
   </tr>
-  </table>
+  </table> 
  
-  <!-- <table>
+   <table>
     <tr valign="TOP">
      <td><a href="https://github.com/ogozalek/Canadian_Wildfires">Monitor Smoke from Canadian Wildfires With IoT Air Quality Sensor</a><br>
     <img src="orangeAir.png" width='200'/><br>
@@ -132,8 +132,8 @@
       Track Netflix TV series from around the world.
     </td>
   </tr>
-</table> -->
+</table> 
 
-<!-- <b>Education:</b> &#x2022; MIT xPRO Certificate in Data Engineering (2023) &#x2022; Harvard University ALM Studio Arts, Film & Photogaphy (2002) &#x2022; Northeastern University PhD Law & Public Policy (1992) &#x2022; WPI MS Computer Science (1985) &#x2022; Colby College BA Psychology (1976)<br><br> -->
+ <b>Education:</b> &#x2022; MIT xPRO Certificate in Data Engineering (2023) &#x2022; Harvard University ALM Studio Arts, Film & Photogaphy (2002) &#x2022; Northeastern University PhD Law & Public Policy (1992) &#x2022; WPI MS Computer Science (1985) &#x2022; Colby College BA Psychology (1976)<br><br> 
 
-<!-- <b>Awards & Achievements:</b> &#x2022; <i>Jeopardy!</i> Contestant (2011) &#x2022; Crite Prize for thesis "Pop Goes the Electric Chair: Interpreting an American Icon From Warhol to the Web" (Harvard University 2002) &#x2022; Special Thanks credit in Errol Morris's film <i>Mr. Death</i> (1999) &#x2022; Invited Admiral Grace Hopper to be Commencement Speaker at my Mom's Alma Mater, Worcester State College (<a href="https://github.com/ogozalek/Grace_Hopper">1984</a>) -->
+ <b>Awards & Achievements:</b> &#x2022; <i>Jeopardy!</i> Contestant (2011) &#x2022; Crite Prize for thesis "Pop Goes the Electric Chair: Interpreting an American Icon From Warhol to the Web" (Harvard University 2002) &#x2022; Special Thanks credit in Errol Morris's film <i>Mr. Death</i> (1999) &#x2022; Invited Admiral Grace Hopper to be Commencement Speaker at my Mom's Alma Mater, Worcester State College (<a href="https://github.com/ogozalek/Grace_Hopper">1984</a>) -->
